@@ -1,0 +1,9 @@
+body{
+    background-color: lightgray ;
+    color: gray;
+}
+
+table, thead{
+    background-color: lightpink ;
+    color: black;
+}
